@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "betterflowerforest:blocks/cherry_sapling"
+  }
+}

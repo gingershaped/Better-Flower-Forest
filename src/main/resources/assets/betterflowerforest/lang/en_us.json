@@ -1,0 +1,15 @@
+{
+	"biome.betterflowerforest.better_flower_forest": "Better Flower Forest",
+	"itemGroup.betterflowerforest": "Better Flower Forest",
+	
+	"item.betterflowerforest.cherry": "Cherry",
+	
+	"block.betterflowerforest.cherry_log": "Cherry Blossom Log",
+	"block.betterflowerforest.cherry_leaves": "Cherry Blossom Leaves",
+	"block.betterflowerforest.cherry_sapling": "Cherry Blossom Sapling",
+	
+	"block.betterflowerforest.cherry_planks": "Cherry Blossom Planks",
+	"block.betterflowerforest.cherry_slab": "Cherry Blossom Slab",
+	"block.betterflowerforest.cherry_stairs": "Cherry Blossom Stairs",
+	"block.betterflowerforest.cherry_button": "Cherry Blossom Button"
+}
